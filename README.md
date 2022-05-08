@@ -12,3 +12,4 @@ Download the latest release from this repository or download and edit/run the .p
 - Create option to export the xml created so far
 - Create better progress tracking of downloads and installs and show visually via progress bar
 - Refactor both Generate-InstallOfficeXML and Generate-DLOfficeXML
+- Refactor to use background jobs so the gui can still be interacted with
