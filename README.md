@@ -4,7 +4,7 @@ A helper GUI application for the Microsoft Office 365 deployment toolkit using P
 # Running the application
 Download the latest release from this repository or download and edit/run the .ps1 (or psf file if you have an editor that supports this file type)
 
-#To Do:
+#To Do
 -Provide all options avaliable here: https://config.office.com/deploymentsettings
 -Provide more product suites
 -Provide functionality for device based licensing
