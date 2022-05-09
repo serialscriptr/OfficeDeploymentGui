@@ -11,6 +11,7 @@ Download the latest release from this repository or download and edit/run the .p
 - Create option to import an existing configuration or download xml
 - Create option to export the xml created so far
 - Create better progress tracking of downloads and installs and show visually via progress bar
+- Create way to check for updates of the Office Deployment GUI application and auto check on start
 - Detect environment and determine best install (Ex: RDS should have shared licensing)
 - Refactor both Generate-InstallOfficeXML and Generate-DLOfficeXML
 - Refactor to use background jobs so the gui can still be interacted with
