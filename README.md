@@ -13,6 +13,7 @@ Download the latest [release](https://github.com/serialscriptr/OfficeDeploymentG
 - Detect environment and determine best install (Ex: RDS should have shared licensing)
 - Refactor both Generate-InstallOfficeXML and Generate-DLOfficeXML
 - Refactor to use background jobs so the gui can still be interacted with
+- Idiot proof it, aka dont allow users to do something they cant do etc
 
 # Completed
 - Create way to check for updates of the Office Deployment GUI application and auto check on start
