@@ -9,12 +9,15 @@ Download the latest [release](https://github.com/serialscriptr/OfficeDeploymentG
 - Provide more product suites
 - Provide functionality for device based licensing
 - Create option to import an existing configuration or download xml
-- Create better progress tracking of downloads and installs and show visually via progress bar
 - Detect environment and determine best install (Ex: RDS should have shared licensing)
 - Refactor both Generate-InstallOfficeXML and Generate-DLOfficeXML
-- Refactor to use background jobs so the gui can still be interacted with
 - Idiot proof it, aka dont allow users to do something they cant do etc
 
 # Completed
 - Create way to check for updates of the Office Deployment GUI application and auto check on start
 - Create option to export the xml created so far
+- Refactor to use background jobs so the gui can still be interacted with
+
+# Notes
+The previous goal as shown below isn't realistically possible within powershell so it will not be added. Instead the option to show the process through the office installer itself will be made available.
+- Create better progress tracking of downloads and installs and show visually via progress bar
